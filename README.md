@@ -47,7 +47,7 @@ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/GV200318/Your-virtual-Assistant cd CookBook
+git clone https://github.com/GV200318/Your-virtual-Assistant.git cd CookBook
 
 Install dependencies:
 
